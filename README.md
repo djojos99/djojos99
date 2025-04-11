@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science, web and software development, spatial sciences and  geoinformatics.
 - 🌱 I’m currently learning computer coding specially web development with JavaScript, java and python languages.
 - 💞️ I’m looking to collaborate on any domain where i can apply computer coding and learn more of the digital world
-- 📫 You can contact me by Email at djopiano@gamil.com or by whatsapp on the phone number 657439152.
+- 📫 You can contact me by Email at djopiano@gmail.com/ josephgounde@gmail.com or by whatsapp on the phone number 657439152.
 - my other projects on :
 - https://github.com/josephgounde/LibraryManagementSystem.git
 - https://github.com/josephgounde/ToDoListAPI.git
